@@ -1,4 +1,4 @@
-Project Description
+## Project Description :-
 This project contains a simple registration and login form using Bootstrap for styling and JavaScript for basic validation. Users can register with a username, email, and password, and then log in with the registered username and password. The registered data is stored locally in the browser's localStorage.
 
 Project Structure
